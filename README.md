@@ -30,13 +30,6 @@ This project implements a small subset of Redis's server behavior to understand 
 - Node.js installed
 - `redis-cli` (comes with Redis, or install via WSL/Linux package manager) to test the server
 
-### Installation
-
-```bash
-git clone <your-repo-url>
-cd <repo-folder>
-npm install
-```
 
 ### Running the Server
 
